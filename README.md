@@ -1,6 +1,4 @@
-## Hi there 👋, My name is Victor Oliveira
-
-### 🔭 Working as a Back-end and DevOps Developer
+### Hi there 👋, My name is Victor oliveira and i'm working as a Back-end and DevOps Developer
 
 <!-- <div align="center">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
