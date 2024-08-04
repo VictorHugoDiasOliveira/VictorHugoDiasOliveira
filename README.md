@@ -6,10 +6,10 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDiasOliveira&layout=compact) -->
 <div>
     <a href="https://github.com/VictorHugoDiasOliveira/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
     </a>
     <a href="https://github.com/VictorHugoDiasOliveira/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
     </a>
 </div>
 
