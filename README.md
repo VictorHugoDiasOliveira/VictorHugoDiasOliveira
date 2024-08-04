@@ -1,10 +1,11 @@
 ## Hi there 👋, My name is Victor Oliveira
 
-- 🔭 I’m currently working as a Back-end Developer and DevOps Developer
+- 🔭 I’m currently working as a Back-end and DevOps Developer
 
-<div align="center">
+<!-- <div align="center">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</div>
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
+</div> -->
 
 <div align="center"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
