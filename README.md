@@ -4,13 +4,14 @@
 
 <!-- ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDiasOliveira&layout=compact) -->
-
-<a href="https://github.com/VictorHugoDiasOliveira/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github.com/VictorHugoDiasOliveira/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320" />
-</a>
+<div>
+    <a href="https://github.com/VictorHugoDiasOliveira/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    </a>
+    <a href="https://github.com/VictorHugoDiasOliveira/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
+    </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
