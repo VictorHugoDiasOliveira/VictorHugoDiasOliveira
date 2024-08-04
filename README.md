@@ -9,10 +9,10 @@
 
 <div align="center">
     <a href="https://github.com/VictorHugoDiasOliveira/InfrastructureAsCode">
-    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=InfrastructureAsCode" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=InfrastructureAsCode" />
     </a>
     <a href="https://github.com/VictorHugoDiasOliveira/SecureFileCrypto">
-    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=SecureFileCrypto" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=SecureFileCrypto" />
     </a>
 </div>
 
