@@ -7,15 +7,6 @@
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
 </div>
 
-<div align="center">
-    <a href="https://github.com/VictorHugoDiasOliveira/InfrastructureAsCode">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=InfrastructureAsCode" />
-    </a>
-    <a href="https://github.com/VictorHugoDiasOliveira/SecureFileCrypto">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=SecureFileCrypto" />
-    </a>
-</div>
-
 <div align="center"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
