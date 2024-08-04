@@ -2,11 +2,18 @@
 
 - 🔭 I’m currently working as a Back-end Developer and DevOps Developer
 
-<!-- ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDiasOliveira&layout=compact) -->
 <div align="center">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
+</div>
+
+<div align="center">
+    <a href="https://github.com/VictorHugoDiasOliveira/InfrastructureAsCode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=InfrastructureAsCode" />
+    </a>
+    <a href="https://github.com/VictorHugoDiasOliveira/SecureFileCrypto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoDiasOliveira&repo=SecureFileCrypto" />
+    </a>
 </div>
 
 <div align="center"><br>
@@ -17,8 +24,6 @@
   <img align="center" alt="Aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
-
-  ##
  
 <div> 
   <a href = "mailto:victorhugodias2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
