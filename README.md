@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Back-end Developer and DevOps Developer
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDiasOliveira&layout=compact)
 
 <div style="display: inline_block"><br>
