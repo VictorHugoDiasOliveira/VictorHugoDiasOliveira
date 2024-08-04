@@ -5,7 +5,7 @@
 <!-- ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDiasOliveira&layout=compact) -->
 <div>
-    <a href="https://github.com/VictorHugoDiasOliveira/github-readme-stats">
+    <a href="https://github.com/VictorHugoDiasOliveira/">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
     </a>
     <a href="https://github.com/VictorHugoDiasOliveira/">
