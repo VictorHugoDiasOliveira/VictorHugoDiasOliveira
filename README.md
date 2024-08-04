@@ -1,4 +1,6 @@
-### Hi there 👋, My name is Victor oliveira and i'm working as a Back-end and DevOps Developer
+## Hi there 👋, My name is Victor Oliveira
+
+### 🔭 Working as a Back-end and DevOps Developer
 
 <!-- <div align="center">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -14,6 +16,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
 
+  ##
 <div display:"inline-block"> 
   <a href = "mailto:victorhugodias2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-oliveira-523689220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
