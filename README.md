@@ -4,12 +4,12 @@
 
 <!-- ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDiasOliveira&layout=compact) -->
-<div>
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
+<div align="center">
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDiasOliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugoDiasOliveira&layout=compact&card_width=320">
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
